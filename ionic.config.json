@@ -1,0 +1,7 @@
+{
+  "name": "tallerC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
